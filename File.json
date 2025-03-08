@@ -1,0 +1,14 @@
+{
+  "pages": [
+    {
+      "title": "My IPTV",
+      "playlist": [
+        {
+          "title": "Live TV",
+          "url": "http://mag.king-4k.cc/get.php?username=451aad&password=3f41a2&type=m3u_plus&output=ts",
+          "mode": "player"
+        }
+      ]
+    }
+  ]
+}
